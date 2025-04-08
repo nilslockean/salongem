@@ -1,0 +1,15 @@
+{
+  "name": "salongem",
+  "version": "1.0.0",
+  "description": "Static export of WordPress site made for Salong EM in Lund",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "serve -s"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
